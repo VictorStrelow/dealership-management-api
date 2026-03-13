@@ -1,1 +1,1 @@
-# car-management-api
+# dealership-management-api
